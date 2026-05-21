@@ -4,7 +4,7 @@ A carefully organized collection of things I definitely did not write at 2 AM wh
 
 ## Student
 
-Name: Momen Mohamedelhassan Mohamed Elhag
+Name: Momen Mohamedelhassan Mohamed Elhag <br>
 Student ID: 25015926
 
 ## Assignments
