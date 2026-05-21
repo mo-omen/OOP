@@ -1,6 +1,6 @@
 # OOP Practice Repo
 
-This repo is my personal object-oriented programming workspace: a place for drills, homework submissions, and the occasional reminder that semicolons are apparently important.
+This repo is my personal object-oriented programming workspace: a place for drills, homework submissions, and an occasional reminder that semicolons are apparently important.
 
 ## Homework Submissions
 
@@ -12,7 +12,7 @@ That folder contains the submitted homework files, assignment notes, and student
 
 ## Practice Work
 
-The `drills/` folder is for experiments, class practice, and smaller exercises that help me test ideas before they become homework material.
+The `drills/` folder is for practice code, experiments, and tiny programs that bravely volunteered to fail first
 
 ## Author
 
