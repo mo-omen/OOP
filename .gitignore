@@ -1,0 +1,39 @@
+# Operating system clutter
+.DS_Store
+Thumbs.db
+
+# Editor and IDE state
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# C/C++ build artifacts
+*.o
+*.obj
+*.so
+*.dll
+*.dylib
+*.exe
+*.out
+*.a
+*.lib
+*.dSYM/
+
+# Common build directories
+build/
+cmake-build-*/
+dist/
+bin/
+obj/
+
+# Local executables produced beside source files
+/drills/ex_[0-9]*
+!/drills/*.cpp
+/Homework/**/h[0-9]*
+!/Homework/**/*.cpp
+
+# Runtime and tool noise
+*.log
+*.tmp
+*.cache
