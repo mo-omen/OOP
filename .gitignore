@@ -32,6 +32,7 @@ obj/
 !/drills/*.cpp
 /Homework/**/h[0-9]*
 !/Homework/**/*.cpp
+!/Homework/**/*.cs
 
 # Runtime and tool noise
 *.log
